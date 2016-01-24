@@ -31,9 +31,7 @@ namelookup = {
   "Queens_13": "Queens: Jamaica Bay 3",
   "Queens_7": "Queens: Rockaways",
   "Queens_8": "Queens: Rockaways2",
-
-  "Staten_Island3": "Staten Staten",
-
+  "Staten Island_3": "Staten Island"
 }
 
 def get_triplets_from_multipolygon(coords):

@@ -1,49 +1,51 @@
-Brookyln: Jamaica Bay 1	1
-Brooklyn_2	2
-Brookyln: Jamaica Bay 2	3
-Brooklyn_4	4
-Brookyln: Jamaica Bay 6	5
-Brooklyn_12	6
-Brookyln: Jamaica Bay 7	7
-Brooklyn_13	8
-Brookyln: Jamaica Bay 3	9
-Brooklyn_14	10
-Brookyln: Jamaica Bay 4	11
-Brooklyn_15	12
-Brookyln: Jamaica Bay 8	13
-Brooklyn_16	14
-Brookyln: Jamaica Bay 5	15
-Brooklyn_21	16
-Brookyln	17
-Brooklyn_26	18
-Manhattan: Statue Of Liberty Island	19
-Manhattan_4	20
-Manhattan: Governors Island	21
-Manhattan_5	22
-Manhattan: Roosevelt Island	23
-Manhattan_25	24
-Manhattan: Randalls Island	25
-Manhattan_27	26
-Manhattan	27
-Manhattan_31	28
-Queens	29
-Queens_0	30
-Queens: Jamaica Bay 1	31
-Queens_1	32
-Queens: Jamaica Bay 2	33
-Queens_2	34
-Queens: Rockaways	35
-Queens_7	36
-Queens: Rockaways2	37
-Queens_8	38
-Queens: Jamaica Bay 3	39
-Queens_13	40
-Queens_19	41
-Bronx: Rikers Island	42
-Bronx_1	43
-Bronx: City Island	44
-Bronx_7	45
-Bronx: Hart Island	46
-Bronx_8	47
-Bronx	48
-Bronx_23	49
+Staten Island	1
+Staten Island_3	2
+Brookyln: Jamaica Bay 1	3
+Brooklyn_2	4
+Brookyln: Jamaica Bay 2	5
+Brooklyn_4	6
+Brookyln: Jamaica Bay 6	7
+Brooklyn_12	8
+Brookyln: Jamaica Bay 7	9
+Brooklyn_13	10
+Brookyln: Jamaica Bay 3	11
+Brooklyn_14	12
+Brookyln: Jamaica Bay 4	13
+Brooklyn_15	14
+Brookyln: Jamaica Bay 8	15
+Brooklyn_16	16
+Brookyln: Jamaica Bay 5	17
+Brooklyn_21	18
+Brookyln	19
+Brooklyn_26	20
+Manhattan: Statue Of Liberty Island	21
+Manhattan_4	22
+Manhattan: Governors Island	23
+Manhattan_5	24
+Manhattan: Roosevelt Island	25
+Manhattan_25	26
+Manhattan: Randalls Island	27
+Manhattan_27	28
+Manhattan	29
+Manhattan_31	30
+Queens	31
+Queens_0	32
+Queens: Jamaica Bay 1	33
+Queens_1	34
+Queens: Jamaica Bay 2	35
+Queens_2	36
+Queens: Rockaways	37
+Queens_7	38
+Queens: Rockaways2	39
+Queens_8	40
+Queens: Jamaica Bay 3	41
+Queens_13	42
+Queens_19	43
+Bronx: Rikers Island	44
+Bronx_1	45
+Bronx: City Island	46
+Bronx_7	47
+Bronx: Hart Island	48
+Bronx_8	49
+Bronx	50
+Bronx_23	51
