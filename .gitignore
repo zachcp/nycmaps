@@ -1,0 +1,6 @@
+.Rhistory
+.Rapp.history
+.Rproj.user/
+
+data-raw/nyc*
+data-raw/Borough_Boundaries.geojson
