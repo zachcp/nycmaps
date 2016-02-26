@@ -7,5 +7,6 @@ Description: Provides a Map of New York City Borough Boundaries
 License: CC0
 LazyData: TRUE
 URL: http://github.com/zachcp/nycmaps
-Imports:
+Depends:
+  R (>= 2.10.0),
   maps (>= 3.0)
