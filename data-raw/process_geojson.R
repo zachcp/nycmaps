@@ -4,6 +4,7 @@ library(mapMaker)
 library(ggplot2)
 library(ggalt)
 
+
 nyc_triplet <- read.csv("nyc_triplet.csv",
                         header = FALSE,
                         stringsAsFactors = FALSE)
