@@ -3,10 +3,10 @@
 #' Provide a simple ggplot base on which to plot
 #'
 #' @export
-#' @importFrom cowplot theme_nothing
+#' @importFrom ggplot2 map_data
 plot_nyc <- function() {
-  nyc <- map_data("nyc")
-  gg  <- ggplot(nyc,aes(x=long, y=lat, map_id=region))
+  nyc <- ggplot2::map_data("nyc")
+  gg  <- ggplot()
   gg  <- gg +
     geom_map(
       data=nyc,

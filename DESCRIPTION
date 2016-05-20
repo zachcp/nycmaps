@@ -10,4 +10,6 @@ URL: http://github.com/zachcp/nycmaps
 Depends:
     R (>= 2.10.0),
     maps (>= 3.0)
+Imports:
+    ggplot2 (>= 2.0)
 RoxygenNote: 5.0.1
