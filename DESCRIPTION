@@ -1,7 +1,7 @@
 Package: nycmaps
 Type: Package
 Title: Provides a Map of New York City Borough Boundaries
-Version: 0.2.0
+Version: 0.2.1
 Author: zach.charlop.powers@gmail.com
 Description: Provides a Map of New York City Borough Boundaries
 License: CC0
