@@ -2,7 +2,11 @@
 # https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
 
 import json
-boros = json.loads(open('Borough_Boundaries.geojson').read())
+import sys
+geojsonfile = sys.argv[1]
+print(geojsonfile)
+
+boros = json.loads(open(geojsonfile).read())
 boros = boros['features']
 
 namelookup = {
