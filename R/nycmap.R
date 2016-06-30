@@ -4,7 +4,7 @@
 #'
 #' @export
 #' @importFrom ggplot2 map_data
-plot_nyc <- function() {
+plot_nyc <- function(fill="grey") {
   nyc <- ggplot2::map_data("nyc")
   gg  <- ggplot()
   gg  <- gg +
@@ -12,7 +12,7 @@ plot_nyc <- function() {
       data=nyc,
       map=nyc,
       aes(x=long, y=lat, map_id=region),
-      fill="grey") +
+      fill=fill) +
     theme_nothing()
 
   gg
